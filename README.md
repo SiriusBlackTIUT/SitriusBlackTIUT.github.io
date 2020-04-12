@@ -1,2 +1,2 @@
-# SitriusBlackTIUT.github.io
+# SiriusBlackTIUT.github.io
 Мой первый верстка
